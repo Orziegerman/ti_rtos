@@ -1,0 +1,526 @@
+[
+  {
+    "_id": "BV33dkfEjmVnV8",
+    "advanced": {},
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software"
+      ]
+    ],
+    "dependencies": [
+      {
+        "refId": "xdctools",
+        "require": "optional",
+        "semver": "3.51.1",
+        "version": "3.51.01.18",
+        "versionRange": "3.51.01.18"
+      },
+      {
+        "refId": "com.ti.SIMPLELINK_ACADEMY_CC13X2_26X2_SDK",
+        "require": "optional",
+        "semver": "2.40.1",
+        "version": "2.40.01.00",
+        "versionRange": "2.40.01.00"
+      }
+    ],
+    "description": "<p>The SimpleLink™ CC13x2_26x2 Software Development Kit (SDK) delivers components that enable engineers to develop applications on the Texas Instruments SimpleLink CC13x2 and CC26x2 family of wireless microcontroller (MCUs). This software toolkit provides a cohesive and consistent software experience for all SimpleLink CC13x2 and CC26x2 wireless MCU users by packaging essential software components, such as a Bluetooth® low energy (BLE) protocol stack supporting Bluetooth 5, Thread 1.1 networking stack based on OpenThread, ZigBee 3.0 compliant protocol suite, RF-Proprietary examples, TI's 15.4 Stack as well as the TI-RTOS kernel and TI Drivers in one easy-to-use software package along with example applications and documentation. In addition, the Dynamic Multi-Protocol Manager (DMM) software component enables multiprotocol development on a single SimpleLink wireless MCU through time division multiplexing. The SimpleLink MCU portfolio offers a single development environment that delivers flexible hardware, software and tool options for customers developing wired and wireless applications. With 100 percent code reuse across host MCUs, Wi-Fi™, Bluetooth low energy, Sub-1GHz devices and more, choose the MCU or connectivity standard that fits your design. A one-time investment with the SimpleLink software development kit (SDK) allows you to reuse often, opening the door to create unlimited applications. For more information, visit <a href=\"http://www.ti.com/simplelink\">http://www.ti.com/simplelink</a>.</p>",
+    "devices": [
+      "CC26X2",
+      "CC13X2",
+      "CC2652R1F",
+      "CC1312R1F3",
+      "CC1352R1F3"
+    ],
+    "devicesVariants": [
+      "CC2652R1F",
+      "CC1312R1F3",
+      "CC1352R1F3"
+    ],
+    "devtools": [
+      "CC26x2R LaunchPad",
+      "CC1312R LaunchPad",
+      "CC1352R LaunchPad",
+      "ULP Sense BoosterPack",
+      "SEGGER J-Link",
+      "IAR I-JET",
+      "IAR Embedded Workbench for ARM",
+      "ELPROTRONIC",
+      "SEGGER",
+      "ELNEC",
+      "BPM Microsystems",
+      "DATA IO",
+      "Sensor Controller Studio",
+      "SmartRF Studio",
+      "SmartRF Packet Sniffer 2",
+      "Open On-Chip Debugger (OpenOCD) for SimpleLink™ Connected MCUs",
+      "Code Composer Studio (CCS)",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer"
+    ],
+    "devtools_category": [
+      "CC26x2R LaunchPad",
+      "CC1312R LaunchPad",
+      "CC1352R LaunchPad",
+      "ULP Sense BoosterPack",
+      "SEGGER J-Link",
+      "IAR I-JET",
+      "IAR Embedded Workbench for ARM",
+      "ELPROTRONIC",
+      "SEGGER",
+      "ELNEC",
+      "BPM Microsystems",
+      "DATA IO",
+      "Sensor Controller Studio",
+      "SmartRF Studio",
+      "SmartRF Packet Sniffer 2",
+      "Open On-Chip Debugger (OpenOCD) for SimpleLink™ Connected MCUs",
+      "Code Composer Studio (CCS)",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer"
+    ],
+    "fullPaths": [
+      [
+        "Software"
+      ]
+    ],
+    "id": "com.ti.SIMPLELINK_CC13X2_26X2_SDK",
+    "image": "c:\\ti\\simplelink_cc13x2_26x2_sdk_2_40_00_81/.metadata/.tirex/cc13x2_26x2-tirex.png",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "simplelink_cc13x2_26x2_sdk_2_40_00_81"
+    ],
+    "includedResources": [
+      {
+        "package": "com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81"
+      }
+    ],
+    "license": "simplelink_cc13x2_26x2_sdk_2_40_00_81/license_simplelink_cc13x2_26x2_sdk_2_40_00_81.txt",
+    "metadataVersion": "3.0.0",
+    "name": "SimpleLink CC13x2 26x2 SDK",
+    "package": "SimpleLink CC13x2 26x2 SDK",
+    "packageId": "com.ti.SIMPLELINK_CC13X2_26X2_SDK",
+    "packageOrder": 23,
+    "packagePath": "simplelink_cc13x2_26x2_sdk_2_40_00_81",
+    "packageUId": "com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81",
+    "packageVersion": "2.40.00.81",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software",
+      "SimpleLink CC13x2 26x2 SDK"
+    ],
+    "semver": "2.40.0",
+    "type": "software",
+    "version": "2.40.00.81",
+    "local": "full",
+    "localPackagePath": "c:\\ti\\simplelink_cc13x2_26x2_sdk_2_40_00_81"
+  },
+  {
+    "_id": "BV3xOLMdo7FRU0",
+    "advanced": {},
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software"
+      ]
+    ],
+    "dependencies": [
+      {
+        "refId": "xdctools",
+        "require": "optional",
+        "semver": "3.50.8",
+        "version": "3.50.08.24.core",
+        "versionRange": "3.50.08.24.core"
+      },
+      {
+        "refId": "com.ti.SIMPLELINK_ACADEMY_CC13X2SDK",
+        "require": "optional",
+        "semver": "2.30.2",
+        "version": "2.30.02.00",
+        "versionRange": "2.30.02.00"
+      },
+      {
+        "refId": "com.ti.SIMPLELINK_ACADEMY_CC13X2SDK_CN",
+        "require": "optional",
+        "semver": "1.15.5",
+        "version": "1.15.05.02",
+        "versionRange": "1.15.05.02"
+      }
+    ],
+    "description": "<p>The SimpleLink™ CC13x2 SDK is part of TI’s SimpleLink MCU platform, offering a single development environment that delivers flexible hardware, software and tool options for customers developing wired and wireless applications. SimpleLink CC13x2 Software Development Kit (SDK) is a set of software development tools that enables engineers to develop software applications on the SimpleLink CC13x2 ULP devices. This powerful software toolkit provides a cohesive and consistent software experience for all SimpleLink CC13x2 users by packaging essential software components such as TI RTOS, peripheral drivers, TI 15.4-Stack, Bluetooth® low energy, and RF-Proprietary examples in one easy-to-use software package along with exhaustive documentation. For more information, visit <a href=\"http://www.ti.com/simplelink\">http://www.ti.com/simplelink</a>.</p>",
+    "devices": [
+      "CC13X2",
+      "CC1312R1F3",
+      "CC1352R1F3"
+    ],
+    "devicesVariants": [
+      "CC1312R1F3",
+      "CC1352R1F3"
+    ],
+    "devtools": [
+      "CC1312R LaunchPad",
+      "CC1352R LaunchPad",
+      "ULP Sense BoosterPack",
+      "SEGGER J-Link",
+      "IAR I-JET",
+      "IAR Embedded Workbench for ARM",
+      "ELPROTRONIC",
+      "SEGGER",
+      "ELNEC",
+      "BPM Microsystems",
+      "DATA IO",
+      "Sensor Controller Studio",
+      "SmartRF Studio",
+      "SmartRF Packet Sniffer 2",
+      "Open On-Chip Debugger (OpenOCD) for SimpleLink™ Connected MCUs",
+      "Code Composer Studio (CCS)",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer"
+    ],
+    "devtools_category": [
+      "CC1312R LaunchPad",
+      "CC1352R LaunchPad",
+      "ULP Sense BoosterPack",
+      "SEGGER J-Link",
+      "IAR I-JET",
+      "IAR Embedded Workbench for ARM",
+      "ELPROTRONIC",
+      "SEGGER",
+      "ELNEC",
+      "BPM Microsystems",
+      "DATA IO",
+      "Sensor Controller Studio",
+      "SmartRF Studio",
+      "SmartRF Packet Sniffer 2",
+      "Open On-Chip Debugger (OpenOCD) for SimpleLink™ Connected MCUs",
+      "Code Composer Studio (CCS)",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer"
+    ],
+    "fullPaths": [
+      [
+        "Software"
+      ]
+    ],
+    "id": "com.ti.SIMPLELINK_CC13X2_SDK",
+    "image": "c:\\ti\\simplelink_cc13x2_sdk_2_30_00_45/.metadata/.tirex/cc1310fancy.jpg",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "simplelink_cc13x2_sdk_2_30_00_45"
+    ],
+    "includedResources": [
+      {
+        "package": "com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45"
+      }
+    ],
+    "license": "simplelink_cc13x2_sdk_2_30_00_45/license_simplelink_cc13x2_sdk_2_30_00_45.txt",
+    "metadataVersion": "2.1.0",
+    "name": "SimpleLink CC13x2 SDK",
+    "package": "SimpleLink CC13x2 SDK",
+    "packageId": "com.ti.SIMPLELINK_CC13X2_SDK",
+    "packageOrder": 28,
+    "packagePath": "simplelink_cc13x2_sdk_2_30_00_45",
+    "packageUId": "com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45",
+    "packageVersion": "2.30.00.45",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software",
+      "SimpleLink CC13x2 SDK"
+    ],
+    "semver": "2.30.0",
+    "type": "software",
+    "version": "2.30.00.45",
+    "localPackagePath": "c:\\ti\\simplelink_cc13x2_sdk_2_30_00_45",
+    "local": "full"
+  },
+  {
+    "_id": "BV30jNwHmg7ySE",
+    "advanced": {},
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software"
+      ]
+    ],
+    "dependencies": [],
+    "description": "Tools for developing and using embedded target content that extends or depends on <a href:\"http://www.eclipse.org/rtsc\">RTSC</a>",
+    "devices": [],
+    "devicesVariants": [],
+    "fullPaths": [
+      [
+        "Software"
+      ]
+    ],
+    "id": "xdctools",
+    "image": "c:\\ti\\xdctools_3_51_01_18_core/.metadata/.tirex/logo.png",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "xdctools_3_51_01_18_core"
+    ],
+    "includedResources": [
+      {
+        "package": "xdctools__3.51.01.18"
+      }
+    ],
+    "metadataVersion": "3.0.0",
+    "name": "XDCTools",
+    "package": "XDCTools",
+    "packageId": "xdctools",
+    "packageOrder": 268,
+    "packagePath": "xdctools_3_51_01_18_core",
+    "packageUId": "xdctools__3.51.01.18",
+    "packageVersion": "3.51.01.18",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software",
+      "XDCTools"
+    ],
+    "semver": "3.51.1",
+    "type": "software",
+    "version": "3.51.01.18",
+    "local": "full",
+    "localPackagePath": "c:\\ti\\xdctools_3_51_01_18_core"
+  },
+  {
+    "_id": "BV3o-QYylUnKjY",
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software"
+      ]
+    ],
+    "dependencies": [],
+    "description": "Texas Instruments' TM4C12x MCUs offer the industry’s popular ARM® Cortex®-M4F core with scalable memory and package options, unparalleled connectivity peripherals, advanced application functions, industry-leading analog integration, and extensive software solutions. In addition, Texas Instruments offers a complete solution to get to market quickly, with evaluation and development boards, white papers, application notes, an easy-to-use peripheral driver library, and a strong support, sales, and distributor network.</p><p>For more information, go to <a target='_blank' href='http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/c2000_performance/control_automation/tm4c12x/overview.page'>TM4C12x MCUs</a>.</p><p><br><font size=2>LaunchPad, BoosterPack, and TivaWare are trademarks of Texas Instruments.<br>ARM and Cortex are registered trademarks of ARM Limited.<br>microSD is a registered trademark of SD-3C, LLC.<br>OLED is a registered trademark of LG Electronics Inc. Corporation.<br>All other trademarks are the property of their respective owners.</font></p>",
+    "devices": [
+      "TM4C",
+      "TM4C129X",
+      "TM4C123X",
+      "TM4C123GH6PGE",
+      "TM4C129XNCZAD",
+      "TM4C1294NCPDT",
+      "TM4C129ENCPDT",
+      "TM4C123GH6PM"
+    ],
+    "devicesVariants": [
+      "TM4C129X",
+      "TM4C123X",
+      "TM4C123GH6PGE",
+      "TM4C129XNCZAD",
+      "TM4C1294NCPDT",
+      "TM4C129ENCPDT",
+      "TM4C123GH6PM"
+    ],
+    "devtools": [
+      "Code Composer Studio (CCS)",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe"
+    ],
+    "devtools_category": [
+      "Code Composer Studio (CCS)",
+      "UniFlash",
+      "PinMux",
+      "GUI Composer",
+      "XDS100v2 JTAG Debug Probe (14-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (20-pin TI version)",
+      "XDS100v2 JTAG Debug Probe (ARM version)",
+      "XDS110 Debug Probe",
+      "XDS200 USB Debug Probe",
+      "XDS560v2 System Trace USB Debug Probe"
+    ],
+    "fullPaths": [
+      [
+        "Software"
+      ]
+    ],
+    "fullPathsPublicIds": [
+      "AJxBIggqYR1aGLaSGbnCmg"
+    ],
+    "id": "tm4c",
+    "image": "tivaware_c_series_2_1_4_178/.metadata/images/TivaWare.png",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "tivaware_c_series_2_1_4_178"
+    ],
+    "includedResources": [
+      {
+        "package": "tm4c__2.1.4.178"
+      }
+    ],
+    "license": "tivaware_c_series_2_1_4_178/EULA.txt",
+    "metadataVersion": "3.0.0",
+    "name": "TM4C ARM® Cortex®-M4F MCU",
+    "package": "TM4C ARM® Cortex®-M4F MCU",
+    "packageId": "tm4c",
+    "packageOrder": 319,
+    "packagePath": "tivaware_c_series_2_1_4_178",
+    "packageUId": "tm4c__2.1.4.178",
+    "packageVersion": "2.1.4.178",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software",
+      "TM4C ARM® Cortex®-M4F MCU"
+    ],
+    "semver": "2.1.4",
+    "shortDescription": "Texas Instruments' TM4C12x MCUs offer the industry’s popular ARM® Cortex®-M4F core with scalable memory and package options, unparalleled connectivity peripherals, advanced application functions, industry-leading analog integration, and extensive softw...",
+    "type": "software",
+    "version": "2.1.4.178",
+    "local": "full",
+    "localPackagePath": "C:\\ti\\tivaware_c_series_2_1_4_178"
+  },
+  {
+    "_id": "BV31MBbmXyzjVo",
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software"
+      ]
+    ],
+    "dependencies": [
+      {
+        "refId": "xdctools",
+        "require": "optional",
+        "semver": "3.32.0",
+        "version": "3.32.00.06",
+        "versionRange": "3.32.00.06"
+      }
+    ],
+    "description": "TI-RTOS accelerates development schedules by eliminating the need to create basic system software functions from scratch. TI-RTOS scales from a real-time multitasking kernel - TI-RTOS Kernel (formerly known as SYS/BIOS) - to a complete RTOS solution including additional middleware components, device drivers and power management. The combination of TI-RTOS power management and TI's ultra low-power MCUs enables developers to design applications with much longer battery life. By providing essential system software components pre-tested and pre-integrated, TI-RTOS enables developers to focus on differentiating their application.",
+    "devices": [],
+    "devicesVariants": [],
+    "fullPaths": [
+      [
+        "Software"
+      ]
+    ],
+    "fullPathsPublicIds": [
+      "ALw..F84P5oOmnCUM7zGVQ"
+    ],
+    "id": "tirtos_tivac",
+    "image": "tirtos_tivac_2_16_00_08/docs/icons/tirtos_tivac.png",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "tirtos_tivac_2_16_00_08"
+    ],
+    "includedResources": [
+      {
+        "package": "tirtos_tivac__2.16.00.08"
+      }
+    ],
+    "name": "TI-RTOS for TivaC",
+    "package": "TI-RTOS for TivaC",
+    "packageId": "tirtos_tivac",
+    "packageOrder": 321,
+    "packagePath": "tirtos_tivac_2_16_00_08",
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "packageVersion": "2.16.00.08",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software",
+      "TI-RTOS for TivaC"
+    ],
+    "semver": "2.16.0",
+    "shortDescription": "TI-RTOS accelerates development schedules by eliminating the need to create basic system software functions from scratch. TI-RTOS scales from a real-time multitasking kernel - TI-RTOS Kernel (formerly known as SYS/BIOS) - to a complete RTOS solution in...",
+    "type": "software",
+    "version": "2.16.00.08",
+    "local": "full",
+    "localPackagePath": "C:\\ti\\tirtos_tivac_2_16_00_08"
+  },
+  {
+    "_id": "BV3r9SrIA4slSI",
+    "allowPartialDownload": false,
+    "categories": [
+      [
+        "Software Tools"
+      ]
+    ],
+    "dependencies": [],
+    "description": "Tools for developing and using embedded target content that extends or depends on <a href:\"http://www.eclipse.org/rtsc\">RTSC</a>",
+    "devices": [],
+    "devicesVariants": [],
+    "fullPaths": [
+      [
+        "Software Tools"
+      ]
+    ],
+    "fullPathsPublicIds": [
+      "AFtk-cVT960u0ztJqnMGrQ"
+    ],
+    "id": "xdctools",
+    "image": "xdctools_3_50_05_12_core/.metadata/.tirex/logo.png",
+    "includedFiles": [
+      "."
+    ],
+    "includedFilesForDownload": [
+      "xdctools_3_50_05_12_core"
+    ],
+    "includedResources": [
+      {
+        "package": "xdctools__3.50.05.12"
+      }
+    ],
+    "metadataVersion": "3.0.0",
+    "name": "XDCTools",
+    "package": "XDCTools",
+    "packageId": "xdctools",
+    "packageOrder": 336,
+    "packagePath": "xdctools_3_50_05_12_core",
+    "packageUId": "xdctools__3.50.05.12",
+    "packageVersion": "3.50.05.12",
+    "resourceType": "packageOverview",
+    "rootCategory": [
+      "Software Tools",
+      "XDCTools"
+    ],
+    "semver": "3.50.5",
+    "shortDescription": "Tools for developing and using embedded target content that extends or depends on RTSC",
+    "type": "software",
+    "version": "3.50.05.12",
+    "local": "full",
+    "localPackagePath": "C:\\ti\\xdctools_3_50_05_12_core"
+  }
+]
