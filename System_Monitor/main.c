@@ -78,7 +78,7 @@ Void task1_fxn(UArg arg0, UArg arg1)
     while(1)
     {
         Event_post(sysmonitor_Event_mask_1, Event_Id_01);
-        stackOverflow_test();
+        /*stackOverflow_test();*/
         GPIO_toggle(Board_LED1);
         Task_sleep(100);
     }
