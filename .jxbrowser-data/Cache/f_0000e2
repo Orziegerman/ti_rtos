@@ -1,0 +1,317 @@
+[
+  {
+    "text": "Benchmark Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Benchmark Example&download=true&id=SrH1Uz8jNuoXn8&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Benchmark Example&makeoffline=true&id=SrH1Uz8jNuoXn8&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Benchmark Example&removeoffline=true&id=SrH1Uz8jNuoXn8&includechildren=true",
+    "_id": "SrH1Uz8jNuoXn8",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "This example gathers and prints benchmark timing data for some representative SYS/BIOS APIs.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrH1Uz8jNuoXn8?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Benchmark Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "This example gathers and prints benchmark timing data for some representative SYS/BIOS APIs.",
+    "importProject": "api/importProject/SrH1Uz8jNuoXn8/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "C++ Example (bigtime)",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/C++ Example (bigtime)&download=true&id=SrHnkYkRRx0OA8&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/C++ Example (bigtime)&makeoffline=true&id=SrHnkYkRRx0OA8&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/C++ Example (bigtime)&removeoffline=true&id=SrHnkYkRRx0OA8&includechildren=true",
+    "_id": "SrHnkYkRRx0OA8",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "In this program, C++ is used to create a real-time clock/calendar.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHnkYkRRx0OA8?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "C++ Example (bigtime)",
+    "resourceType": "projectSpec",
+    "shortDescription": "In this program, C++ is used to create a real-time clock/calendar.",
+    "importProject": "api/importProject/SrHnkYkRRx0OA8/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Clock Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Clock Example&download=true&id=SrHtpcEcdGrXWE&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Clock Example&makeoffline=true&id=SrHtpcEcdGrXWE&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Clock Example&removeoffline=true&id=SrHtpcEcdGrXWE&includechildren=true",
+    "_id": "SrHtpcEcdGrXWE",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "The clock example shows how to use the ti.sysbios.knl.Clock module to create one-shot and periodic Clock Instances. Clock Instances are essentially functions that run after a certain number of Clock ticks.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHtpcEcdGrXWE?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Clock Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "The clock example shows how to use the ti.sysbios.knl.Clock module to create one-shot and periodic Clock Instances. Clock Instances are essentially functions that run after a certain number of Clock ticks.",
+    "importProject": "api/importProject/SrHtpcEcdGrXWE/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Error Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Error Example&download=true&id=SrHXpwgMvSe0f0&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Error Example&makeoffline=true&id=SrHXpwgMvSe0f0&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Error Example&removeoffline=true&id=SrHXpwgMvSe0f0&includechildren=true",
+    "_id": "SrHXpwgMvSe0f0",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "This example shows how to use Error_Blocks to catch runtime errors. An Error_Block is passed to Task_create() and then checked for create failure. When no Error_Block is passed, the application will terminate when an error occurs. The error.cfg file shows how to plug an error hook.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHXpwgMvSe0f0?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Error Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "This example shows how to use Error_Blocks to catch runtime errors. An Error_Block is passed to Task_create() and then checked for create failure. When no Error_Block is passed, the application will terminate when an error occurs. The error.cfg file sh...",
+    "importProject": "api/importProject/SrHXpwgMvSe0f0/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Event Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Event Example&download=true&id=SrH9yn4aaxzvvQ&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Event Example&makeoffline=true&id=SrH9yn4aaxzvvQ&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Event Example&removeoffline=true&id=SrH9yn4aaxzvvQ&includechildren=true",
+    "_id": "SrH9yn4aaxzvvQ",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "The event example shows how to use the ti.sysbios.knl.Event module. The ti.sysbios.knl.Event module solves the 'Wait on Multiple' problem. In this example a reader task waits on several events.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrH9yn4aaxzvvQ?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Event Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "The event example shows how to use the ti.sysbios.knl.Event module. The ti.sysbios.knl.Event module solves the 'Wait on Multiple' problem. In this example a reader task waits on several events.",
+    "importProject": "api/importProject/SrH9yn4aaxzvvQ/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Hello Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Hello Example&download=true&id=SrHRMo5Dq8VxXE&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Hello Example&makeoffline=true&id=SrHRMo5Dq8VxXE&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Hello Example&removeoffline=true&id=SrHRMo5Dq8VxXE&includechildren=true",
+    "_id": "SrHRMo5Dq8VxXE",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "The hello example serves as a basic sanity check program for SYS/BIOS. It demonstrates how to print the string 'hello world' to stdout.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHRMo5Dq8VxXE?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Hello Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "The hello example serves as a basic sanity check program for SYS/BIOS. It demonstrates how to print the string 'hello world' to stdout.",
+    "importProject": "api/importProject/SrHRMo5Dq8VxXE/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Memory Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Memory Example&download=true&id=SrHcVzpyIsoDbk&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Memory Example&makeoffline=true&id=SrHcVzpyIsoDbk&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Memory Example&removeoffline=true&id=SrHcVzpyIsoDbk&includechildren=true",
+    "_id": "SrHcVzpyIsoDbk",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "This example shows the use of xdc.runtime.Memory module and different xdc.runtime.IHeap implementations to manage memory. A system heap is created statically using ti.sysbios.heaps.HeapMem.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHcVzpyIsoDbk?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Memory Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "This example shows the use of xdc.runtime.Memory module and different xdc.runtime.IHeap implementations to manage memory. A system heap is created statically using ti.sysbios.heaps.HeapMem.",
+    "importProject": "api/importProject/SrHcVzpyIsoDbk/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Task Mutex Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Task Mutex Example&download=true&id=SrHAM-0eEQMxBQ&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Task Mutex Example&makeoffline=true&id=SrHAM-0eEQMxBQ&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Task Mutex Example&removeoffline=true&id=SrHAM-0eEQMxBQ&includechildren=true",
+    "_id": "SrHAM-0eEQMxBQ",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "This example shows the use of two tasks and one semaphore to protect data access.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHAM-0eEQMxBQ?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Task Mutex Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "This example shows the use of two tasks and one semaphore to protect data access.",
+    "importProject": "api/importProject/SrHAM-0eEQMxBQ/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  },
+  {
+    "text": "Swi Example",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 8,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "tirtos_tivac__2.16.00.08",
+    "url": "/api/resources?path=Software/TI-RTOS%20for%20TivaC/Development%20Tools/EK-TM4C129EXL/Kernel%20Examples&package=com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::xdctools__3.50.05.12::tm4c__2.1.4.178::tirtos_tivac__2.16.00.08",
+    "downloadLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Swi Example&download=true&id=SrHgzEhHdEjyY0&includechildren=true",
+    "makeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Swi Example&makeoffline=true&id=SrHgzEhHdEjyY0&includechildren=true",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_ACADEMY_CC13X2SDK__2.30.02.00::com.ti.SIMPLELINK_CC13X2_26X2_SDK__2.40.00.81::com.ti.SIMPLELINK_CC13X2_SDK__2.30.00.45::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::xdctools__3.50.05.12&path=Software/TI-RTOS for TivaC/Development Tools/EK-TM4C129EXL/Kernel Examples/Swi Example&removeoffline=true&id=SrHgzEhHdEjyY0&includechildren=true",
+    "_id": "SrHgzEhHdEjyY0",
+    "_originalJsonFile": "tirtos_tivac_2_16_00_08/content.tirex.json",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "coreTypes": [
+      "Cortex M.TM4C129ENCPDT"
+    ],
+    "description": "The swi example shows how to use the ti.sysbios.knl.Swi module. It demonstrates how the various Swi APIs work.",
+    "devtools": [
+      "EK-TM4C129EXL"
+    ],
+    "hasIncludes": true,
+    "link": "api/linkTo/SrHgzEhHdEjyY0?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples&extname=.projectspec",
+    "linkType": "local",
+    "name": "Swi Example",
+    "resourceType": "projectSpec",
+    "shortDescription": "The swi example shows how to use the ti.sysbios.knl.Swi module. It demonstrates how the various Swi APIs work.",
+    "importProject": "api/importProject/SrHgzEhHdEjyY0/Cortex M.TM4C129ENCPDT?analyticsDevice=undefined&analyticsDevtool=undefined&analyticsPath=Software%2FTI-RTOS%20for%20TivaC%2FDevelopment%20Tools%2FEK-TM4C129EXL%2FKernel%20Examples",
+    "packageOrder": 321
+  }
+]
